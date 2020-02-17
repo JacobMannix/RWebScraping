@@ -274,8 +274,8 @@ kable(year_song_counts, format='markdown')
 
 <center>
 
-<img src="/Users/jacobmannix/Box Sync/M.S. Analytics/Analytics Fall/DATA 900/Web Scrapping/Assignment/Songsperyear/Songsperyear1.png" alt="drawing"/>
-<img src="/Users/jacobmannix/Box Sync/M.S. Analytics/Analytics Fall/DATA 900/Web Scrapping/Assignment/Songsperyear/Songsperyear2.png" alt="drawing"/>
+<img src="/Songsperyear/Songsperyear1.png" alt="drawing"/>
+<img src="/Songsperyear/Songsperyear2.png" alt="drawing"/>
 
 </center>
 
@@ -283,7 +283,7 @@ kable(year_song_counts, format='markdown')
 
 <center>
 
-<img src="/Users/jacobmannix/Box Sync/M.S. Analytics/Analytics Fall/DATA 900/Web Scrapping/Assignment/WordClouds/AllWordClouds.png" alt="drawing"/>
+<img src="/WordClouds/AllWordClouds.png" alt="drawing"/>
 
 </center>
 
@@ -291,7 +291,7 @@ kable(year_song_counts, format='markdown')
 
 <center>
 
-<img src="/Users/jacobmannix/Box Sync/M.S. Analytics/Analytics Fall/DATA 900/Web Scrapping/Assignment/Frequencies/AllWordFrequencies.png" alt="drawing"/>
+<img src="/Frequencies/AllWordFrequencies.png" alt="drawing"/>
 
 </center>
 
