@@ -1,4 +1,4 @@
-# Web Scraping in R
+# Web Scraping: Billboard Hot 100 in R
 
 R project to create a tool that scrapes the web for data.
 
